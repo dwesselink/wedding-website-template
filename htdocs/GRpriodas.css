@@ -622,6 +622,10 @@ h2 {
     overflow: visible;
   }
   
+  .header .h1--small {
+    margin-left: 60px;
+  }
+  
   .header__nav {
     position: relative;
     display: none;
