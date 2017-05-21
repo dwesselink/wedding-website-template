@@ -592,7 +592,7 @@ h2 {
   
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 600px) {
     
   .lang-select {
     -webkit-flex-direction: column;
@@ -604,6 +604,9 @@ h2 {
     -ms-box-orient: vertical;
     box-orient: vertical;
   }
+}
+
+@media screen and (max-width: 960px) {
   
   .container--goldborder {
     padding-bottom: 200px;
