@@ -617,11 +617,11 @@ h2 {
     padding-bottom: 200px;
   }
   
-  .header--shrink > h1 {
-    margin-left: auto;
+  .header--shrink h1 {
     margin-right: auto;
+    margin-left: 50px;
 }
-  
+    
   .menuicon {
     display: block;
   }
