@@ -74,13 +74,18 @@ footer {
   overflow: hidden;
 }
 
+.timetable {
+    max-width: 650px;
+    margin: 0 auto;
+}
+
+/****** GENERAL / REUSABLE ******/
+
 a {
   cursor: pointer;
   text-decoration: inherit;
   color: inherit;
 }
-
-/****** GENERAL / REUSABLE ******/
 
 .bold {
   font-weight: bold;
